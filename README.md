@@ -6,4 +6,4 @@
   - Discord: pabloazza
   - Mail: dumitrucimpean9@gmail.com
   
-_i know i'm using the default template, it just fits best_
+_i know i'm using the default template, it just fits best for now_
